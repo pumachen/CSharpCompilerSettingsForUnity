@@ -1,7 +1,7 @@
 {
     "name": "CSharpCompilerSettings_",
+    "rootNamespace": "",
     "references": [],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -10,7 +10,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": false,
-    "defineConstraints": [
-        "CSC_SETTINGS_DEVELOP"
-    ]
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
